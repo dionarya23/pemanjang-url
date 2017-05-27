@@ -1,0 +1,4 @@
+Options All -Indexes
+
+RewriteEngine On
+RewriteRule ^u-([0-9a-zA-Z]+) url.php?palsu=$1 [NC]
