@@ -1,5 +1,5 @@
 # Pemanjang-URL
-Untuk Demo Silahkan Kunjungi http://long-url.hol.es
+Untuk Demo Silahkan Kunjungi http://longurl.hol.es<br>
 Terisnpirasi dari banyak nya URL Shortener, disini saya membuat yang sedikit yang berbeda yaitu URL Longer,
  jika biasa nya suatu url di pendekan misalnya http://facebook.com/blablabla.1234 akan di pendekan menjadi http://domain.com/jakh2 tapi disni akan dipanjangkan http://google.com nanti akan menjadi http://domain.com/jndajndjadjbdhahsbdhabdbahd2t6gyd
 
